@@ -12,7 +12,7 @@ I'm Sonia — a former sailor turned Java developer navigating the seas of softw
 
 Check out my coding escapades and stories of the digital journey:
 
-- [Blog: Synaptic Scribes](https://synapticscribes.eu): Join me on a voyage through technology, spirituality, and creative expression!
+- [Website](https://synapticscribes.eu): Some of my collages and writings are hidden here.
 - [RentersRank](https://github.com/swiateks/rentersRank): A Java-based application for tenants to rate landlords and apartments, my first pet project which opened the doors to IT career. It's mostly unfinished and focuses on what I was learning in spring of 2023.
 - **More Coming Soon** Stay tuned for backend-driven projects showcasing my expertise
 
