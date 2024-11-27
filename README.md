@@ -4,9 +4,9 @@ I'm Sonia — a former sailor turned Java developer navigating the seas of softw
 
 ## Tech Stack ⚡️
 
--**Java, Spring Boot:** My expertise lies in Java, with Spring Boot as my trusted toolkit for building efficient and scalable applications.
--**Docker, Maven:** Containerization and dependency management are second nature.
--**Azure Certified:** Proficient in cloud-based solutions.
+- **Java, Spring Boot:** My expertise lies in Java, with Spring Boot as my trusted toolkit for building efficient and scalable applications.
+- **Docker, Maven:** Containerization and dependency management are second nature.
+- **Azure Certified:** Proficient in cloud-based solutions.
 
 ## Projects and Blog ✨
 
